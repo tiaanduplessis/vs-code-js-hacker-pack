@@ -14,15 +14,9 @@
 	},
 	"keywords": [
 		"git",
-		"gitblame",
-		"blame",
-		"project",
-		"folder",
-		"prettier",
-		"npm",
-		"codemetrics",
-		"Quokka",
-		"GitLens"
+		"html",
+		"javascript",
+		"css"
 	],
 	"categories": [
 		"Extension Packs"
