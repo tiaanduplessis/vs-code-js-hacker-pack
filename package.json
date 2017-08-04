@@ -49,6 +49,7 @@
 		"christian-kohler.npm-intellisense",
 		"kisstkondoros.vscode-codemetrics",
 		"WallabyJs.quokka-vscode",
-		"msjsdiag.debugger-for-chrome"
+		"msjsdiag.debugger-for-chrome",
+		"wix.vscode-import-cost"
 	]
 }
