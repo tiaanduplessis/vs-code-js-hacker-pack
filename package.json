@@ -50,6 +50,7 @@
 		"kisstkondoros.vscode-codemetrics",
 		"WallabyJs.quokka-vscode",
 		"msjsdiag.debugger-for-chrome",
-		"wix.vscode-import-cost"
+		"wix.vscode-import-cost",
+		"howardzuo.vscode-npm-dependency"
 	]
 }
