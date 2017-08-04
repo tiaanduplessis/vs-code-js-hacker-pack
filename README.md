@@ -30,6 +30,8 @@ Opinionated collection of Visual Studio Code extensions focused on Javascript de
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - Computes complexity in TypeScript / JavaScript files.
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - The Live Scratchpad for JavaScript
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Npm Dependency](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-npm-dependency)
 
 ### Git
 
