@@ -1,56 +1,56 @@
 {
-	"name": "vs-code-js-hacker-pack",
-	"displayName": "JS Hacker Pack",
-	"description": "Opinionated collection of Visual Studio Code extensions focused on Javascript development",
-	"version": "1.0.0",
-	"publisher": "tiaanduplessis",
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#323330",
-		"theme": "dark"
-	},
-	"engines": {
-		"vscode": "^1.10.0"
-	},
-	"keywords": [
-		"git",
-		"html",
-		"javascript",
-		"css"
-	],
-	"categories": [
-		"Extension Packs"
-	],
-	"repository": {
-		"url": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack"
-	},
-	"homepage": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack",
-	"bugs": {
-		"url": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack/issues"
-	},
-	"extensionDependencies": [
-		"pprice.better-merge",
-		"donjayamanne.githistory",
-		"eamodio.gitlens",
-		"ziyasal.vscode-open-in-github",
-		"naumovs.color-highlight",
-		"wayou.vscode-todo-highlight",
-		"cssho.vscode-svgviewer",
-		"2gua.rainbow-brackets",
-		"PeterJausovec.vscode-docker",
-		"EditorConfig.EditorConfig",
-		"spywhere.guides",
-		"formulahendry.auto-close-tag",
-		"formulahendry.auto-rename-tag",
-		"pranaygp.vscode-css-peek",
-		"Zignd.html-css-class-completion",
-		"esbenp.prettier-vscode",
-		"christian-kohler.path-intellisense",
-		"christian-kohler.npm-intellisense",
-		"kisstkondoros.vscode-codemetrics",
-		"WallabyJs.quokka-vscode",
-		"msjsdiag.debugger-for-chrome",
-		"wix.vscode-import-cost",
-		"howardzuo.vscode-npm-dependency"
-	]
+  "name": "vs-code-js-hacker-pack",
+  "displayName": "JS Hacker Pack",
+  "description": "Opinionated collection of Visual Studio Code extensions focused on Javascript development",
+  "version": "1.1.0",
+  "publisher": "tiaanduplessis",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#323330",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "keywords": [
+    "git",
+    "html",
+    "javascript",
+    "css"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack"
+  },
+  "homepage": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack",
+  "bugs": {
+    "url": "https://github.com/tiaanduplessis/vs-code-js-hacker-pack/issues"
+  },
+  "extensionDependencies": [
+    "pprice.better-merge",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ziyasal.vscode-open-in-github",
+    "naumovs.color-highlight",
+    "wayou.vscode-todo-highlight",
+    "cssho.vscode-svgviewer",
+    "2gua.rainbow-brackets",
+    "PeterJausovec.vscode-docker",
+    "EditorConfig.EditorConfig",
+    "spywhere.guides",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "Zignd.html-css-class-completion",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "kisstkondoros.vscode-codemetrics",
+    "WallabyJs.quokka-vscode",
+    "msjsdiag.debugger-for-chrome",
+    "wix.vscode-import-cost",
+    "howardzuo.vscode-npm-dependency"
+  ]
 }
