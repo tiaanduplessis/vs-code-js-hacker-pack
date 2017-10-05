@@ -18,6 +18,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/vs-code-js-hacker-pack.svg)](https://greenkeeper.io/)
+
 Opinionated collection of Visual Studio Code extensions focused on Javascript development.
 
 ## Extensions
