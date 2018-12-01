@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/twitter/url/https/github.com/tiaanduplessis/vs-code-js-hacker-pack.svg?style=social" alt="Tweet" />
   </a>
 </div>
-<br>
-<div align="center">
-  Built with ❤︎ by <a href="https://github.com/tiaanduplessis">Tiaan</a> and <a href="https://github.com/tiaanduplessis/vs-code-js-hacker-pack/graphs/contributors">contributors</a>
-</div>
 
 ## About
 
@@ -28,9 +24,7 @@ Opinionated collection of Visual Studio Code extensions focused on Javascript de
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - Computes complexity in TypeScript / JavaScript files.
-- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - The Live Scratchpad for JavaScript
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Npm Dependency](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-npm-dependency)
 
 ### Git
@@ -58,6 +52,9 @@ Opinionated collection of Visual Studio Code extensions focused on Javascript de
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - A rainbow brackets extension for VS Code.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides) - An extension for more guide lines.
+- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, snippets, commands, hover tips, and linting for Dockerfile and docker-compose files.
   
 ## Contribute

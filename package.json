@@ -35,8 +35,10 @@
     "ziyasal.vscode-open-in-github",
     "naumovs.color-highlight",
     "wayou.vscode-todo-highlight",
+    "kisstkondoros.vscode-codemetrics",
     "cssho.vscode-svgviewer",
     "2gua.rainbow-brackets",
+    "yzhang.markdown-all-in-one",
     "PeterJausovec.vscode-docker",
     "EditorConfig.EditorConfig",
     "spywhere.guides",
@@ -45,12 +47,11 @@
     "pranaygp.vscode-css-peek",
     "Zignd.html-css-class-completion",
     "esbenp.prettier-vscode",
+    "wmaurer.change-case",
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
-    "kisstkondoros.vscode-codemetrics",
-    "WallabyJs.quokka-vscode",
     "msjsdiag.debugger-for-chrome",
-    "wix.vscode-import-cost",
-    "howardzuo.vscode-npm-dependency"
+    "howardzuo.vscode-npm-dependency",
+    "CoenraadS.bracket-pair-colorizer"
   ]
 }
