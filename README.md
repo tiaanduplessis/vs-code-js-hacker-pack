@@ -26,13 +26,14 @@ Opinionated collection of Visual Studio Code extensions focused on Javascript de
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) - Computes complexity in TypeScript / JavaScript files.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Npm Dependency](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-npm-dependency)
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
 
 ### Git
 
 - [Better Merge](https://marketplace.visualstudio.com/items?itemName=pprice.better-merge) - Improved git merge conflict support.
 - [Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file or line history.
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file & blame history explorers, and commands to compare changes. 
-- [Open in GitHub / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github / Bitbucket / VisualStudio.com. 
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file & blame history explorers, and commands to compare changes.
+- [Open in GitHub / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github / Bitbucket / VisualStudio.com.
 
 ### HTML
 
@@ -55,8 +56,9 @@ Opinionated collection of Visual Studio Code extensions focused on Javascript de
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, snippets, commands, hover tips, and linting for Dockerfile and docker-compose files.
-  
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Adds syntax highlighting, snippets, commands, hover tips, and linting for Dockerfile and docker-compose files.
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
+
 ## Contribute
 
 Contributions are welcome!
